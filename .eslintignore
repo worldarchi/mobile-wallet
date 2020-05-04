@@ -1,0 +1,6 @@
+# React Native
+android/
+ios/
+
+# Node
+node_modules/

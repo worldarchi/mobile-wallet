@@ -1,2 +1,2 @@
 # mobile-wallet
-Simple mobile wallet
+mobile-wallet
